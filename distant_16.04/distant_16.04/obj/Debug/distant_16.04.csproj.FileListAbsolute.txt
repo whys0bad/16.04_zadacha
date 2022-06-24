@@ -1,0 +1,11 @@
+C:\Users\User2\Desktop\Новая папка\distant_16.04\distant_16.04\bin\Debug\distant_16.04.exe.config
+C:\Users\User2\Desktop\Новая папка\distant_16.04\distant_16.04\bin\Debug\distant_16.04.exe
+C:\Users\User2\Desktop\Новая папка\distant_16.04\distant_16.04\bin\Debug\distant_16.04.pdb
+C:\Users\User2\Desktop\Новая папка\distant_16.04\distant_16.04\obj\Debug\distant_16.04.csproj.AssemblyReference.cache
+C:\Users\User2\Desktop\Новая папка\distant_16.04\distant_16.04\obj\Debug\distant_16.04.csproj.SuggestedBindingRedirects.cache
+C:\Users\User2\Desktop\Новая папка\distant_16.04\distant_16.04\obj\Debug\distant_16._04.Form1.resources
+C:\Users\User2\Desktop\Новая папка\distant_16.04\distant_16.04\obj\Debug\distant_16._04.Properties.Resources.resources
+C:\Users\User2\Desktop\Новая папка\distant_16.04\distant_16.04\obj\Debug\distant_16.04.csproj.GenerateResource.cache
+C:\Users\User2\Desktop\Новая папка\distant_16.04\distant_16.04\obj\Debug\distant_16.04.csproj.CoreCompileInputs.cache
+C:\Users\User2\Desktop\Новая папка\distant_16.04\distant_16.04\obj\Debug\distant_16.04.exe
+C:\Users\User2\Desktop\Новая папка\distant_16.04\distant_16.04\obj\Debug\distant_16.04.pdb
